@@ -30,6 +30,20 @@ streamlit run app.py
 
 Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 
+## App screenshots
+
+### Home page
+
+![Home page](Assets/Defaultpage.png)
+
+### Title selection
+
+![Title selection](Assets/select.png)
+
+### Recommendations view
+
+![Recommendations view](Assets/Recommendations.png)
+
 ## Dataset
 
 Public Netflix titles catalog (~8,800 movies/TV shows with genre, cast,
