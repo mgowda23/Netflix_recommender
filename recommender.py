@@ -101,3 +101,4 @@ class HybridRecommender:
         result = result[result.index != idx]
         result = result.sort_values("score", ascending=False).head(top_n)
         return result[["title", "type", "release_year", "listed_in", "score"]]
+
